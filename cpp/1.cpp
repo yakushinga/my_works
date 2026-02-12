@@ -11,3 +11,7 @@ int main(void){
 void print(std::string& str){
 	std::cout << str << std::endl;
 }
+
+void peeld(std::string str){
+  std::cout << str << std::endl;
+}
