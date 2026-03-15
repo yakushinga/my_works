@@ -37,5 +37,5 @@ for day in range(1, 366):
         used.pop(p[i])
     cost.sort()
 
-print(max(income, key=income.get))
-print(k[max(k, key=k.get)])
+print(income[max(income, key=income.get)])
+print(max(k, key=k.get))
