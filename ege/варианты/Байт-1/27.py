@@ -54,7 +54,6 @@ for cl0 in cl:
             minsumdist = sumdist
             c0 = p
     c.append(c0)
-print(c)
 Q2 = 0
 for i in range(3):
     for p in cl[i]:

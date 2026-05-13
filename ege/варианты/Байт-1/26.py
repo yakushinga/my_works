@@ -18,4 +18,6 @@ for human in time:
             k[i] += 1
             posl = i
             break
+    print(stack)
 print(sum(k), posl)
+print(k)
